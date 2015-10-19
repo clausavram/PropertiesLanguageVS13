@@ -1,0 +1,10 @@
+Properties language's syntax highlighting. 
+Inspired from: https://docs.oracle.com/cd/E23095_01/Platform.93/ATGProgGuide/html/s0204propertiesfileformat01.html and https://commons.apache.org/proper/commons-configuration/userguide/howto_properties.html.
+
+Source code can be found at: https://github.com/clausavram/PropertiesLanguage
+
+Syntax highlighting is supported only for key-value-comment instructions at the moment.
+
+It lacks:
+ - escape characters
+ - multiple line spanning values
